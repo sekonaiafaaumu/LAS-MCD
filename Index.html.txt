@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melisa Dunston - Master Cosmetologist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #eaeaea;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 40px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Melisa Dunston</h1>
+    <h2>Master Cosmetologist</h2>
+    <h3>Specialist in Hair Color and Hair Extensions</h3>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Welcome to my personal webpage! I am a Master Cosmetologist specializing in hair color and extensions. I am Aveda trained and passionate about helping my clients achieve their hair goals.</p>
+</section>
+
+<section>
+    <h2>Salon Information</h2>
+    <p>Visit me at:</p>
+    <p><strong>Lee Anthony Salon</strong><br>
+    Located on Barret Parkway, Kennesaw, GA</p>
+</section>
+
+<section>
+    <h2>Social Media</h2>
+    <p>Feel free to explore my work on Instagram: <a href="https://www.instagram.com/leeanthonysalon" target="_blank">@leeanthonysalon</a>.</p>
+</section>
+
+<section class="contact">
+    <h2>Book an Appointment</h2>
+    <p>Ready to transform your look? Book online at: <a href="https://www.vagaro.com/leeanthonysalon" target="_blank">www.vagaro.com/leeanthonysalon</a></p>
+</section>
+
+</body>
+</html>
